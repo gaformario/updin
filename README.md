@@ -1,4 +1,4 @@
-# Updin – Updin – Plataforma de Educação Financeira para Adolescentes
+# Updin – Updin: Plataforma de Educação Financeira para Adolescentes
 
 O Updin é uma plataforma mobile de educação financeira para adolescentes, com gamificação, gestão de mesada, missões, quizzes, ranking e acompanhamento parental.
 
